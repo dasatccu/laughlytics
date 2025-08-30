@@ -1,5 +1,5 @@
 class Joke:
-    def __init__(self,id,type,setup,punchline,length):
+    def __init__(self,id,type,setup,punchline):
         self.__id = id
         self.__type = type
         self.__setup = setup
